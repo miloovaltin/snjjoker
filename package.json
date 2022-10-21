@@ -1,0 +1,17 @@
+
+{
+"name": "snjjoker",
+"theme": "snj joker",
+"version": "6.7.2",
+"description": "snj joker สมัครเว็บไซต์สล็อตเว็บตรง คนเล่นเยอะ แจกเครดิตฟรี",
+"keywords": [
+"snj joker",
+"snj joker เครดิตฟรี",
+"snj joker ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/snjjoker",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
